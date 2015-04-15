@@ -43,7 +43,8 @@ color: white;
 
 .education {
 text-align: center;
-background-image: url("../images/athenstech1.jpg");
+background-image: url("../images/athenstech0.jpg");
+background-size: cover;
 border-style: solid;
 border-width: 10px;
 border-color: dodgerblue;
