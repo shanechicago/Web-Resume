@@ -1,7 +1,11 @@
-/*web resume test css*/
+/*
+web resume main css
+joshua harper
+*/
 
 .jumbotron {
-/* background-image: url("../images/04.jpg");*/
+/* background-image: url("../images/04.jpg");
+background-size: cover; */
 background-color: black;
 text-align: center;
 
